@@ -1,4 +1,4 @@
-#### More Info
+#### Şerifhan Işıklı, Microsoft Website Clone - More Info
 
 - This is a clone of the Microsoft website which you can find at [https://microsoft.com]. No source code has been replicated at all, and only the images and text are the same. No copyright infringement is intended.
 
@@ -7,8 +7,6 @@
 - The website will be created using create-react-app. In case you're wondering, the app is still in the preparation phase and create-react-app hasn't been run yet. Check back for updates!
 
 - UPDATE: If you need the setup files, you can download or clone my other repository here [https://github.com/SankThomas/microsoft-clone]
-
-- YouTube Video: [https://www.youtube.com/watch?v=yrQJFFacVB0]
 
 #### Requirements
 
